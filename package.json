@@ -16,5 +16,8 @@
   }, 
   "engines": {
     "node": "4.x"
-  }
+  }, 
+"scripts": {
+   "start": "node index.js"
+}
 }
