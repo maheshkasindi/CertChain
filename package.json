@@ -18,6 +18,6 @@
     "node": "4.x"
   }, 
 "scripts": {
-   "start": "node index.js"
+   "start": "node app.js"
 }
 }
