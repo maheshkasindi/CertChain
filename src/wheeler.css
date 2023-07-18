@@ -1,20 +1,20 @@
 .container
 {
-width: auto; padding-left:0px; padding-top:10px;padding-bottom:10px;padding-right:10px;font-family: helvetica, san-serif; font-size: 13px; line-height: 18px;  text-decoration: none;background-color: transparent;border-left: 0px solid transparent
+width: auto; padding-left:0px; padding-top:10px;padding-bottom:10px;padding-right:10px;font-family: helvetica, san-serif; font-size: 13px; line-height: 18px;  text-decoration: none;background-color: transparent;border-left: 0px solid transparent;
 }
 .imglink
 {
-width: 20px; vertical-align: bottom; padding-right: 1px; padding-top: 2px; padding-bottom: 2px; display: inline-block
+width: 20px; vertical-align: bottom; padding-right: 1px; padding-top: 2px; padding-bottom: 2px; display: inline-block;
 }
 .brand-border-left
 {
-padding-left: 20px; border-left: #BCBEC0 2px solid
+padding-left: 20px; border-left: #BCBEC0 2px solid;
 }
 .name-value
 {
-font-size:14px;font-family: Helvetica, sans-serif;margin-top:20px;padding-top:20px
+font-size:14px;font-family: Helvetica, sans-serif;margin-top:20px;padding-top:20px;
 }
 .brand-numbers
 {
-color: #959595;font-size:12px;line-height: 120%
+color: #959595;font-size:12px;line-height: 120%;
 }
